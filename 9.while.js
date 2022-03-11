@@ -1,9 +1,11 @@
-while (true) {
-    console.log("hello world");
-}
+// while loop 
 
+// while (true) {
+//     console.log("Hello, world!");
+// }
 
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
-    condition
-}
+let i = 0 ;
+while (i<= 10) {
+    console.log(i);
+    i++ ;
+} 
