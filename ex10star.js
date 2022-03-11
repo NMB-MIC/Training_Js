@@ -1,5 +1,5 @@
 let star1 = (r, c) => {
-    let star = ""
+    let star = ''
     for (let i = 0; i < r; i++) {
         for (let j = 0; j < c; j++) {
             star = star + "*";
@@ -11,4 +11,5 @@ let star1 = (r, c) => {
     }
     console.log(star);
 }
-star1(3, 4)
+star1(3,4)
+star1(4,3) 
