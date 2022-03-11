@@ -13,3 +13,4 @@ let star1 = (r, c) => {
 }
 star1(3,4)
 star1(4,3) 
+
