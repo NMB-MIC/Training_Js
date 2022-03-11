@@ -14,10 +14,10 @@
 // console.log(b);
 
 let b = [1,2,3,4,5,"6"] 
-// b.push(7)
-// console.log(b);
-// b.push(8)
-// console.log(b);
-
-b.splice(2,1)
+b.push(7)
 console.log(b);
+b.push(8)
+console.log(b);
+
+// b.splice(2,1)
+// console.log(b);
